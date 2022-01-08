@@ -1,10 +1,9 @@
 # Auto-crack.py [Aircrack-ng]
 
+ WIFI HACKING - AUTOMATING SCRIPT
+ 
+   INFO | INSTRUCTIONS | DISCLAIMERS
 
-	    WIFI HACKING - AUTOMATING SCRIPT
-=========================================================
-|	   INFO | INSTRUCTIONS | DISCLAIMERS		|
-=========================================================
 INFO
 
 This tool was developed to automate the process of conducting
