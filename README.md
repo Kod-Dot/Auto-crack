@@ -1,6 +1,6 @@
 # Auto-crack.py [Aircrack-ng]
 
-##WIFI HACKING - AUTOMATING SCRIPT
+## WIFI HACKING - AUTOMATING SCRIPT
 
 ## INFO
 
@@ -32,3 +32,10 @@ please follow these instructions:
 
 -This tool was created by Dutchm3n.
 
+## Installation
+
+```
+git clone https://github.com/Kod-Dot/Auto-crack.git
+cd Auto-crack
+sudo python3 Auto-crack.py
+```
