@@ -21,8 +21,8 @@ please follow these instructions:
 
 -This tool was tested/created in a fully updated Kali Linux
   Virtual Machine (VMWare).
--Aircrack-ng need to be installed (Option 1 in Main Menu).
--WiFi Card used to run in monitor mode was an ALFA AWUS036NHA.
+ Aircrack-ng need to be installed (Option 1 in Main Menu).
+- WiFi Card used to run in monitor mode was an ALFA AWUS036NHA.
 -This tool uses rockyou.txt wordlist to do cracking by default.
 -This tool is for educational purposes only.
 -This tool was created by Dutchm3n.
