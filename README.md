@@ -1,8 +1,7 @@
 # Auto-crack.py [Aircrack-ng]
 
  WIFI HACKING - AUTOMATING SCRIPT
- 
-   INFO | INSTRUCTIONS | DISCLAIMERS
+
 
 INFO
 
@@ -13,17 +12,22 @@ INSTRUCTIONS
 
 For this tool to work in the best possible way
 please follow these instructions:
-		- Execute Option 2 in the Main Menu.
-		- Try to use the tool functionalities, 
-		    preferably don't clean files manually.
+- Execute Option 2 in the Main Menu.
+- Try to use the tool functionalities, 
+  preferably don't clean files manually.
 
 DISCLAIMERS
 
 -This tool was tested/created in a fully updated Kali Linux
-		Virtual Machine (VMWare).
+  Virtual Machine (VMWare).
+
 -Aircrack-ng need to be installed (Option 1 in Main Menu).
+
 -WiFi Card used to run in monitor mode was an ALFA AWUS036NHA.
+
 -This tool uses rockyou.txt wordlist to do cracking by default.
+
 -This tool is for educational purposes only.
+
 -This tool was created by Dutchm3n.
 
