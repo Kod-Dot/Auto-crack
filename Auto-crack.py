@@ -249,8 +249,6 @@ def info_page():
     print("-This tool was tested/created in a fully updated Kali Linux")
     print("		Virtual Machine (VMWare).")
     print("-Aircrack-ng need to be installed (Option 1 in Main Menu).")
-    print("-WiFi Card used to run in monitor mode was an ALFA AWUS036NHA.")
-    print("-This tool uses rockyou.txt wordlist to do cracking by default.")
     print("-This tool is for educational purposes only.")
     print("-This tool was created by" + "\033[33m" + "\033[3m" + " Dutchm3n." + "\033[0m" + "\n")
     menu()
