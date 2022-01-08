@@ -1,14 +1,14 @@
 # Auto-crack.py [Aircrack-ng]
 
- WIFI HACKING - AUTOMATING SCRIPT
-
+WIFI HACKING - AUTOMATING SCRIPT
 
 INFO
 
 This tool was developed to automate the process of conducting
 a PenTest on WiFi Networks with Aircrack-ng in Python.
 
-  INSTRUCTIONS
+
+INSTRUCTIONS
 
 For this tool to work in the best possible way
 please follow these instructions:
@@ -16,7 +16,8 @@ please follow these instructions:
 - Try to use the tool functionalities, 
   preferably don't clean files manually.
 
-  DISCLAIMERS
+
+DISCLAIMERS
 
 -This tool was tested/created in a fully updated Kali Linux
   Virtual Machine (VMWare).
