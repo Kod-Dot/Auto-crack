@@ -1,6 +1,4 @@
-# Auto-crack.py [Aircrack-ng]
-
-## WIFI HACKING - AUTOMATING SCRIPT
+#WIFI HACKING - AUTOMATING SCRIPT
 
 ## INFO
 
