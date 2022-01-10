@@ -11,6 +11,7 @@ a PenTest on WiFi Networks with Aircrack-ng in Python.
 For this tool to work in the best possible way
 please follow these instructions:
 - Execute Option 2 in the Main Menu.
+- This Program must need sudo previlage.
 - Try to use the tool functionalities, 
   preferably don't clean files manually.
 
