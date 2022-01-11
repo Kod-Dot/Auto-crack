@@ -16,7 +16,7 @@ please follow these instructions:
   preferably don't clean files manually.
 
 
-## Discaimers
+## Disclaimers
 
 - This tool was tested/created in a fully updated Kali Linux
   Virtual Machine (VMWare).
